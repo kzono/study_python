@@ -1,0 +1,1 @@
+pyinstaller --onefile --hidden-import=PIL._tkinter_finder gui_server.py
